@@ -5,3 +5,4 @@ we're so back.
 - shitty sdl2 engine BLUHH
 - shitty opengl 3d engine 
 - maybe websites
+- (HUGE MAYBE) operating system
